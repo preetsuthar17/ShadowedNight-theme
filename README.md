@@ -1,8 +1,3 @@
-
-<div align="center">
-<img src="./images/logo.png" width="200" height="200"/>
-</div>
-
 # ShadowedNight Theme
 
 ShadowedNight Theme is a Visual Studio Code (VS Code) theme extension designed to provide a clean, minimalistic, and pleasant coding experience. This theme is ideal for developers who want to focus on their code without being distracted by flashy and overly complicated syntax highlighting.

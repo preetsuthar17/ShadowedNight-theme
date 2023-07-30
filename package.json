@@ -3,11 +3,11 @@
   "displayName": "ShadowedNight",
   "description": "🌌 ShadowedNight: Embrace the mystery of the night with an elegant and immersive dark theme for a captivating coding experience. 🌃",
   "icon": "images/logo.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Pritudev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/preetsuthar17/preet-dark-theme"
+    "url": "https://github.com/preetsuthar17/ShadowedNight-theme"
   },
   "keywords": [
     "pritu",
